@@ -4,9 +4,9 @@ title: "Rahul S"
 email: "rahul24111997@gmail.com"
 description: "Control Systems Engineer | MATLAB | Simulink | PLC | Industrial Automation"
 
-url: "https://rahul24111997.github.io"
-baseurl: ""
-repository: "rahul24111997/rahul24111997.github.io"
+url: "https://rahul24111997-source.github.io"
+baseurl: "/control-systems-portfolio"
+repository: "rahul24111997-source/control-systems-portfolio"
 
 github_username: "rahul24111997"
 
