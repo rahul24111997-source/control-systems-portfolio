@@ -4,34 +4,60 @@ author_profile: false
 classes: wide
 ---
 
-<div class="hero">
+<div style="text-align:center; margin-bottom:30px;">
+
+<img src="/assets/images/profile.jpg" alt="Rahul S" width="220" style="border-radius:50%; border:4px solid #2E86C1;">
 
 # Rahul S
 
 ## Control Systems Engineer
 
-Master's in Control Systems | MATLAB | Simulink | PLC | ETAP | AutoCAD
+**Master's in Control Systems**  
+**MATLAB | Simulink | PLC | ETAP | AutoCAD**
 
-Designing intelligent industrial automation and control systems using modern engineering tools.
+Designing intelligent industrial automation systems, advanced control algorithms, and power system solutions using modern engineering tools.
 
 <a class="btn btn--primary" href="/resume/">📄 Download Resume</a>
+
 <a class="btn btn--success" href="/projects/">💼 View Projects</a>
-<a class="btn btn--info" href="https://linkedin.com/in/rahul-s-696947218">🔗 LinkedIn</a>
+
+<a class="btn btn--info" href="https://linkedin.com/in/rahul-s-696947218" target="_blank">🔗 LinkedIn</a>
 
 </div>
 
 ---
 
-## Welcome
+# Welcome
 
-Welcome to my engineering portfolio.
+Welcome to my professional Control Systems Engineering portfolio.
 
-Here you'll find my:
+Here you can explore:
 
-- MATLAB & Simulink Projects
-- PLC Automation Projects
-- ETAP Power System Studies
-- AutoCAD Electrical Designs
-- Technical Skills
-- Resume
-- Certifications
+- ⚙️ MATLAB & Simulink Projects
+- 🤖 PLC Automation Projects
+- ⚡ ETAP Power System Analysis
+- 🏭 AutoCAD Electrical Designs
+- 📈 Control System Engineering Skills
+- 📄 Resume
+- 🏅 Certifications
+- 📧 Contact Information
+
+---
+
+### Career Objective
+
+I am passionate about Control Systems Engineering, Industrial Automation, Electric Drives, and Power Systems. My goal is to contribute to innovative engineering projects by applying strong analytical, programming, and automation skills while continuously learning modern technologies.
+
+---
+
+### Areas of Interest
+
+- Control Systems
+- Industrial Automation
+- PLC Programming
+- Electric Drives
+- Power System Analysis
+- Renewable Energy Systems
+- MATLAB & Simulink
+- ETAP
+- AutoCAD Electrical
