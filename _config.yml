@@ -1,4 +1,3 @@
-
 # Site Settings
 title: "Rahul S"
 email: "rahul24111997@gmail.com"
@@ -8,7 +7,7 @@ url: "https://rahul24111997-source.github.io"
 baseurl: "/control-systems-portfolio"
 repository: "rahul24111997-source/control-systems-portfolio"
 
-github_username: "rahul24111997"
+github_username: "rahul24111997-source"
 
 minimal_mistakes_skin: default
 search: true
@@ -22,7 +21,7 @@ permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
 
-timezone:
+timezone: Asia/Kolkata
 
 include:
   - _pages
@@ -38,14 +37,14 @@ plugins:
 author:
   name: "Rahul S"
   avatar: "/assets/images/profile.jpg"
-  bio: "Control Systems Engineer"
+  bio: "Control Systems Engineer | MATLAB | Simulink | PLC | ETAP | AutoCAD"
   location: "India"
   email: "rahul24111997@gmail.com"
 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rahul24111997"
+      url: "https://github.com/rahul24111997-source"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -55,7 +54,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rahul24111997"
+      url: "https://github.com/rahul24111997-source"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -69,9 +68,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
 
   - scope:
       path: "_pages"
