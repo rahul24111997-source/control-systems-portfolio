@@ -1,1 +1,118 @@
 
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+/* ===== Background ===== */
+
+body {
+  background: #F8FBFD;
+  color: #273746;
+}
+
+/* ===== Header ===== */
+
+.masthead {
+  background: #FFFFFF;
+  border-bottom: 2px solid #D6EAF8;
+}
+
+.site-title,
+.site-title:visited {
+  color: #273746;
+  font-weight: 700;
+}
+
+/* ===== Navigation ===== */
+
+.greedy-nav a {
+  color: #273746;
+  font-weight: 600;
+}
+
+.greedy-nav a:hover {
+  color: #5DADE2;
+}
+
+/* ===== Buttons ===== */
+
+.btn {
+  border-radius: 10px;
+  transition: all .3s ease;
+}
+
+.btn--primary {
+  background: #5DADE2;
+  border-color: #5DADE2;
+}
+
+.btn--primary:hover {
+  background: #3498DB;
+}
+
+.btn--success {
+  background: #7FB3D5;
+  border-color: #7FB3D5;
+}
+
+.btn--success:hover {
+  background: #5DADE2;
+}
+
+.btn--info {
+  background: #AED6F1;
+  border-color: #AED6F1;
+  color: #273746;
+}
+
+.btn--info:hover {
+  background: #89CFF0;
+}
+
+/* ===== Cards ===== */
+
+.page,
+.archive {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+  padding: 30px;
+}
+
+/* ===== Headings ===== */
+
+h1 {
+  color: #273746;
+}
+
+h2 {
+  color: #3498DB;
+}
+
+h3 {
+  color: #5DADE2;
+}
+
+/* ===== Images ===== */
+
+img {
+  border-radius: 12px;
+}
+
+/* ===== Footer ===== */
+
+.page__footer {
+  background: #D6EAF8;
+}
+
+/* ===== Links ===== */
+
+a {
+  color: #3498DB;
+}
+
+a:hover {
+  color: #1B4F72;
+}
