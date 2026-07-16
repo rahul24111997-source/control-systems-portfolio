@@ -8,68 +8,77 @@ author_profile: true
 
 ---
 
-## 🎓 2026
+## 🎓 2021
 
-### Master's in Control Systems
+### Master of Engineering – Control Systems
 
 - Advanced Control Engineering
 - Industrial Automation
-- Electric Drives
 - MATLAB & Simulink
 - PLC Programming
-- ETAP Power System Studies
+- Control System Design
 
 ---
 
-## 💻 2025
+## 🎓 2019
 
-### Engineering Projects
+### Bachelor of Engineering – Electrical and Electronics Engineering
 
-#### PMSM Speed Control
+- Electrical Machines
+- Power Systems
+- Control Engineering
+- Power Electronics
 
+---
+
+## 💼 Engineering Projects
+
+### 2021 – PMSM Speed Control using MATLAB/Simulink
+
+- Closed-loop PID Control
 - MATLAB
 - Simulink
-- PID Controller
-
-#### PLC Automation System
-
-- Ladder Logic
-- Industrial Automation
-
-#### ETAP Solar PV Study
-
-- Solar PV Design
-- Power Flow Analysis
-
-#### AutoCAD Electrical
-
-- Electrical Schematics
-- Substation Design
+- Speed and Torque Analysis
 
 ---
 
-## 🎓 2024
+### 2021 – PLC Automation System
 
-### Bachelor of Technology
+- PLC Programming
+- Ladder Logic
+- Industrial Automation
+- Automatic Storage and Retrieval System (ASRS)
 
-Industrial Biotechnology
+---
 
-Government College of Technology, Coimbatore
+### 2026 – AutoCAD Electrical
 
-CGPA: 7.5
+- Electrical Schematics
+- Control Panel Design
+- Substation Layout
+- Industrial Electrical Drawings
+
+---
+
+### 2026 – ETAP Solar PV Study
+
+- Solar PV System Modeling
+- Load Flow Analysis
+- Power System Studies
+- Renewable Energy Applications
 
 ---
 
 ## 🚀 Career Goal
 
-Seeking opportunities as a
-
-**Control Systems Engineer**
-
-with interests in
+Seeking opportunities as a **Control Systems Engineer** with interests in:
 
 - Industrial Automation
-- Electric Drives
+- Control Systems Engineering
 - PLC Programming
 - MATLAB & Simulink
+- ETAP
+- AutoCAD Electrical
+- Electric Drives
 - Power Systems
+- Renewable Energy Systems
