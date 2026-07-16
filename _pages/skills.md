@@ -6,37 +6,59 @@ author_profile: true
 
 # Technical Skills
 
-## Programming
+## MATLAB
 
-- MATLAB
-- Simulink
-- C (Basic)
-- C++ (Basic)
+██████████ 95%
 
-## Control Engineering
+Design, simulation, data analysis, and control system development.
 
-- PID Controllers
-- Classical Control
-- Model-Based Design
-- System Analysis
+---
 
-## Automation
+## Simulink
 
-- PLC Programming
+█████████ 90%
+
+Dynamic system modeling, PID control, and motor drive simulations.
+
+---
+
+## PLC Programming
+
+█████████ 90%
+
+Industrial automation, ladder logic, timers, counters, and sequencing.
+
+---
+
+## ETAP
+
+████████ 80%
+
+Power system analysis, load flow, fault analysis, and solar PV studies.
+
+---
+
+## AutoCAD Electrical
+
+████████ 80%
+
+Electrical schematics, panel layouts, and substation design.
+
+---
+
+## Control Systems
+
+█████████ 90%
+
+PID Controllers, Stability Analysis, Transfer Functions, and State Space.
+
+---
+
+## Additional Skills
+
 - Industrial Automation
-- Testing & Validation
-
-## Software
-
-- AutoCAD Electrical
-- ETAP
-- MATLAB
-
-## Professional Skills
-
-- Technical Troubleshooting
-- Documentation
-- Team Collaboration
-- Leadership
-- Process Improvement
-
+- Electric Drives (PMSM)
+- Renewable Energy Systems
+- Electrical Power Systems
+- Technical Documentation
+- Problem Solving
