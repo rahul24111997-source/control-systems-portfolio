@@ -4,73 +4,90 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
+# Engineering Projects
+
+---
 
 ## PMSM Speed Control using MATLAB/Simulink
 
-**Objective**
+![PMSM Model]({{ site.baseurl }}/assets/images/Project/pmsm-simulink-model.jpg)
 
-Designed and simulated a Permanent Magnet Synchronous Motor (PMSM) drive using PID-based control in MATLAB/Simulink.
-
-### Tools Used
+### Technologies
 
 - MATLAB
 - Simulink
 - PID Controller
 
-### Features
+### Description
+
+Designed and simulated a Permanent Magnet Synchronous Motor (PMSM) using MATLAB/Simulink with PID-based closed-loop speed control.
+
+**Key Features**
 
 - Closed-loop speed control
 - Dynamic response analysis
 - Torque performance evaluation
 
-### Simulink Model
+---
 
-![PMSM Simulink Model](/assets/images/Project/pmsm-simulink-model.png)
+## PLC-Based Automatic Storage and Retrieval System
 
-### Speed Response
+![PLC Project]({{ site.baseurl }}/assets/images/Project/plc-ladder-logic.jpg)
 
-![Speed Response](/assets/images/Project/pmsm-speed-response.jpg)
+### Technologies
 
-### Electromagnetic Torque Response
+- PLC Programming
+- Ladder Logic
 
-![Torque Response](/assets/images/Project/pmsm-torque-response.jpg)
+### Description
+
+Developed ladder logic for an Automatic Storage and Retrieval System (ASRS) using industrial PLC programming.
+
+**Key Features**
+
+- Timer-based sequencing
+- Automatic material handling
+- Industrial automation
 
 ---
 
-## PLC-Based Automatic Storage and Retrieval System (ASRS)
+## ETAP Solar PV System
 
-**Objective**
+![ETAP Solar]({{ site.baseurl }}/assets/images/Project/etap-solar.jpg)
 
-Developed ladder logic for an Automatic Storage and Retrieval System using PLC programming.
+### Technologies
 
-### Features
+- ETAP
+- Solar PV
 
-- Timer-based sequencing
-- Switch-controlled automation
-- Automated material handling
-- Industrial control logic
+### Description
 
-### Ladder Logic
+Developed a solar photovoltaic power system model using ETAP.
 
-![PLC Ladder Logic](/assets/images/Project/PLC-ladder-logics.jpg)
+**Key Features**
+
+- Solar PV modelling
+- Power system analysis
+- Renewable energy study
 
 ---
 
 ## AutoCAD Electrical – Substation Design
 
-**Objective**
+![AutoCAD Electrical]({{ site.baseurl }}/assets/images/Project/autocad-substation.jpg)
 
-Created electrical substation layouts using AutoCAD Electrical.
+### Technologies
 
-### Features
+- AutoCAD Electrical
+
+### Description
+
+Created electrical substation layouts and power distribution drawings.
+
+**Key Features**
 
 - Busbar arrangement
-- Primary and secondary protection
-- Radial feeder configuration
-- Distribution network layout
+- Protection scheme
+- Distribution layout
 
-### Design
-
-![Substation Design](/assets/images/Project/autocad-substation.jpg)
-
+---
