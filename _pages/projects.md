@@ -4,13 +4,22 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Engineering Projects
+<div style="background:#F8FBFD; padding:35px; border-radius:20px; box-shadow:0 8px 20px rgba(0,0,0,.08);">
+
+# 💼 Engineering Projects
+
+<p style="font-size:18px; color:#555;">
+This page showcases some of my academic and engineering projects in Control Systems, Industrial Automation, Power Systems, and Electrical Design.
+</p>
 
 ---
 
-## PMSM Speed Control using MATLAB/Simulink
+<div style="background:white; padding:25px; border-radius:18px; box-shadow:0 8px 20px rgba(0,0,0,.08); margin-bottom:30px;">
 
-![PMSM Model]({{ site.baseurl }}/assets/images/Project/pmsm-simulink-model.jpg)
+## ⚙ PMSM Speed Control using MATLAB/Simulink
+
+<img src="{{ site.baseurl }}/assets/images/Project/pmsm-simulink-model.jpg"
+style="width:100%; border-radius:12px; margin-bottom:15px;">
 
 ### Technologies
 
@@ -18,76 +27,134 @@ author_profile: true
 - Simulink
 - PID Controller
 
-### Description
+### Project Description
 
-Designed and simulated a Permanent Magnet Synchronous Motor (PMSM) using MATLAB/Simulink with PID-based closed-loop speed control.
+Designed and simulated a **Permanent Magnet Synchronous Motor (PMSM)** drive using MATLAB/Simulink with a PID-based closed-loop speed control system.
 
-**Key Features**
+### Key Features
 
-- Closed-loop speed control
-- Dynamic response analysis
-- Torque performance evaluation
+- Closed-loop Speed Control
+- Dynamic Response Analysis
+- Electromagnetic Torque Analysis
+- PID Controller Design
+- Motor Performance Evaluation
+
+</div>
 
 ---
 
-## PLC-Based Automatic Storage and Retrieval System
+<div style="background:white; padding:25px; border-radius:18px; box-shadow:0 8px 20px rgba(0,0,0,.08); margin-bottom:30px;">
 
-![PLC Project]({{ site.baseurl }}/assets/images/Project/plc-ladder-logic.jpg)
+## 🤖 PLC-Based Automatic Storage and Retrieval System (ASRS)
+
+<img src="{{ site.baseurl }}/assets/images/Project/plc-ladder-logic.jpg"
+style="width:100%; border-radius:12px; margin-bottom:15px;">
 
 ### Technologies
 
 - PLC Programming
 - Ladder Logic
+- Industrial Automation
 
-### Description
+### Project Description
 
-Developed ladder logic for an Automatic Storage and Retrieval System (ASRS) using industrial PLC programming.
+Developed an **Automatic Storage and Retrieval System (ASRS)** using PLC ladder logic for automated industrial material handling.
 
-**Key Features**
+### Key Features
 
-- Timer-based sequencing
-- Automatic material handling
-- Industrial automation
+- Ladder Logic Programming
+- Timer-Based Sequencing
+- Automatic Material Handling
+- Industrial Automation
+- PLC Control Logic
+
+</div>
 
 ---
 
-## ETAP Solar PV System
+<div style="background:white; padding:25px; border-radius:18px; box-shadow:0 8px 20px rgba(0,0,0,.08); margin-bottom:30px;">
 
-![ETAP Solar]({{ site.baseurl }}/assets/images/Project/etap-solar.jpg)
+## ⚡ ETAP Solar PV System Study
+
+<img src="{{ site.baseurl }}/assets/images/Project/etap-solar.jpg"
+style="width:100%; border-radius:12px; margin-bottom:15px;">
 
 ### Technologies
 
 - ETAP
 - Solar PV
+- Power System Analysis
 
-### Description
+### Project Description
 
-Developed a solar photovoltaic power system model using ETAP.
+Developed a **Solar Photovoltaic (PV) System** model using ETAP to analyze renewable energy integration and power system performance.
 
-**Key Features**
+### Key Features
 
-- Solar PV modelling
-- Power system analysis
-- Renewable energy study
+- Solar PV Modeling
+- Load Flow Analysis
+- Power System Studies
+- Renewable Energy Applications
+
+</div>
 
 ---
 
-## AutoCAD Electrical – Substation Design
+<div style="background:white; padding:25px; border-radius:18px; box-shadow:0 8px 20px rgba(0,0,0,.08);">
 
-![AutoCAD Electrical]({{ site.baseurl }}/assets/images/Project/autocad-substation.jpg)
+## 🏭 AutoCAD Electrical – Substation Design
+
+<img src="{{ site.baseurl }}/assets/images/Project/autocad-substation.jpg"
+style="width:100%; border-radius:12px; margin-bottom:15px;">
 
 ### Technologies
 
 - AutoCAD Electrical
 
-### Description
+### Project Description
 
-Created electrical substation layouts and power distribution drawings.
+Designed electrical schematics and substation layouts using AutoCAD Electrical for industrial power distribution applications.
 
-**Key Features**
+### Key Features
 
-- Busbar arrangement
-- Protection scheme
-- Distribution layout
+- Electrical Schematics
+- Busbar Arrangement
+- Protection Scheme
+- Substation Layout
+- Power Distribution Design
+
+</div>
 
 ---
+
+## 🚀 Engineering Skills Applied
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:15px;">
+
+<div style="background:white;padding:18px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.08);text-align:center;">
+
+⚙ MATLAB & Simulink
+
+</div>
+
+<div style="background:white;padding:18px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.08);text-align:center;">
+
+🤖 PLC Programming
+
+</div>
+
+<div style="background:white;padding:18px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.08);text-align:center;">
+
+⚡ ETAP
+
+</div>
+
+<div style="background:white;padding:18px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.08);text-align:center;">
+
+🏭 AutoCAD Electrical
+
+</div>
+
+</div>
+
+</div>
